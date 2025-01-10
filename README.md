@@ -49,3 +49,6 @@ src/
 - Search for Movies: Enter a movie name in the search bar and see the results populate dynamically.
 - View Movie Details: Click on a movie to view more details on a dedicated page.
 - Manage Favorites: Mark movies as favorites and access them from the Favorites page.
+
+# Author
+- **Kainat Umar** - *Developer of this React Based Movie Explorer Application*
