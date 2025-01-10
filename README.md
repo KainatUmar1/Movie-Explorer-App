@@ -33,8 +33,7 @@ src/
 ### Installation
 1. Clone the repository
 2. Install dependencies: npm install
-3. Create a .env file in the root directory and add your API key.
-4. Start the development server: npm start
+3. Start the development server: npm start
 
 ## 📚 Usage
 - Search for Movies: Enter a movie name in the search bar and see the results populate dynamically.
