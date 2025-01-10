@@ -9,18 +9,12 @@
 - **Movie Details Page:** View detailed information, including title, release date, and ratings.
 - **Favorites:** Save and manage your favorite movies on a dedicated page.
 - **Dynamic Routing:** Smooth navigation between Home, Movie Details, and Favorites pages.
-- **Light/Dark Mode:** Switch themes for a personalized experience.
-
-### Bonus Features
-- **API Integration:** Fetch real-time movie data using the OMDb API (or TMDB API).
 - **Pagination:** Load more movies seamlessly for better user experience.
-- **Error Handling:** Friendly messages for API errors or unexpected issues.
 
 ## 🛠️ Tech Stack
 - **Frontend Framework:** React
 - **State Management:** useState (local state), useContext (global state)
 - **Routing:** React Router DOM
-- **HTTP Requests:** Axios for API integration
 - **Styling:** CSS for responsive and modern UI design
 
 ## 🗂️ Project Structure
@@ -28,9 +22,6 @@
 src/
 ├── components/          # Reusable components (MovieList, MovieItem, SearchBar, etc.)
 ├── pages/               # Pages (Home, MovieDetails, Favorites)
-├── context/             # Global state management with useContext
-├── hooks/               # Custom React hooks (if any)
-├── services/            # API services for fetching data
 ├── styles/              # CSS files for styling
 ├── App.js               # Main component with routing setup
 └── index.js             # Entry point
